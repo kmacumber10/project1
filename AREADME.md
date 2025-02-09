@@ -32,9 +32,9 @@ Key Performance Indicators (KPIs)
 
 3. Win percentage after travel days 
 
-4.Goals per game  
+4. Goals per game  
 
-5.Fatigue indicators (turnovers, etc.) 
+5. Fatigue indicators (turnovers, etc.) 
 
  
 
