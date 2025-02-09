@@ -26,15 +26,15 @@ Kneeland, A. T. (2014). Man Games Lost in the NHL: A Correlation between Travel,
 
 Key Performance Indicators (KPIs) 
 
-Points Per Game (PPG) 
+1. Points Per Game (PPG) 
 
-Time on ice (TOI) 
+2. Time on ice (TOI) 
 
-Win percentage after travel days 
+3. Win percentage after travel days 
 
-Goals per game  
+4.Goals per game  
 
-Fatigue indicators (turnovers, etc.) 
+5.Fatigue indicators (turnovers, etc.) 
 
  
 
