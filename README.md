@@ -15,14 +15,10 @@ This project takes a dive into the importance of travel in hockey and how it can
 
 PPG provides a straightforward metric to evaluate a player's scoring ability and overall contribution to the team's offensive performance.  It allows for comparison between players, helping to identify who is the most effective scorer in a league, team, or position.  Tracking changes in PPG can help assess the impact of injuries on a player's performance and recovery. Performance based effects on PPG include lack of Points Per game, many facts have showed a dip in player Points Per Game when it comes to travel games or back-to-back games.
 
-  
-**Time on ice (TOI)**
-
-**Win percentage after travel days**
 
 **Goals per game**
 
-**Fatigue indicators (turnovers, etc.)**
+
 
  
 
