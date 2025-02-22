@@ -16,6 +16,8 @@ Overall, the demanding travel schedule in the NHL is a crucial factor that influ
 
 <a id="2">[2]</a> MacIntyre, I. (2008). Canucks using bracelets to study players’ fatigue levels during travel. In CanWest News. Postmedia Network Inc.  
 
-<a id="3">[3]</a> Kneeland, A. T. (2014). Man Games Lost in the NHL: A Correlation between Travel, Rest, Periods and Injuries in the National Hockey League. Sport Management Undergraduate. https://fisherpub.sjf.edu/cgi/viewcontent.cgi?article=1007&context=sport_undergrad.  
+<a id="3">[3]</a> Kneeland, A. T. (2014). Man Games Lost in the NHL: A Correlation between Travel, Rest, Periods and Injuries in the National Hockey League. Sport Management Undergraduate. https://fisherpub.sjf.edu/cgi/viewcontent.cgi?article=1007&context=sport_undergrad. 
+
+https://moneypuck.com/data.htm
 
 
