@@ -11,12 +11,20 @@ This project takes a dive into the importance of travel in hockey and how it can
 ## Key Performance Indicators (KPIs) 
 
 
-**Points Per Game (PPG)**
+**Goals For**
+Goals for is an important perforance measurement as it reflects offensive contribution in hockey. If a teams goals for on away games is low and higher on home games it means that they are less successful on the road. 
 
-PPG provides a straightforward metric to evaluate a player's scoring ability and overall contribution to the team's offensive performance.  It allows for comparison between players, helping to identify who is the most effective scorer in a league, team, or position.  Tracking changes in PPG can help assess the impact of injuries on a player's performance and recovery. Performance based effects on PPG include lack of Points Per game, many facts have showed a dip in player Points Per Game when it comes to travel games or back-to-back games.
+**Goals Against**
+Refelcts how well a team or individuals defend, particulary under potential physical and mental fatigue that can come with travel. Tracking goals against helps highlight whehter a teams defensive strategy or performance is being impacted by travel-related challenges. 
 
+**Penalties Taken**
+Is an important measure penalties taken as it can identify whether fatigue is affecting a player or teams performance based off players being more prone to take penatlies due to impaired judgement, slower reflexes and mental state all from the impact of travel. 
 
-**Goals per game**
+**Giveaways**
+Giveaways direclty impact a teams ability to maintain possession of the puck and execute a game plan. Monitoring giveaways offers insights on a how players and teams are managing the effects of travel. 
+
+**Takeaways Against**
+Takeaways are casued from the other team taking the puck off a players stick, this is an important perforance indicator to track as it can show which players are not skating as fast as normal and are being caught and stripped of the puck by the other team. 
 
 
 
