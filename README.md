@@ -26,8 +26,7 @@ This project takes a dive into the importance of travel in hockey and how it can
 **Takeaways Against**
 - Takeaways are caused from the other team taking the puck off a players stick, this is an important performance indicator to track as it can show which players are not skating as fast as normal and are being caught and stripped of the puck by the other team.
 
-**Datasets**
-https://public.tableau.com/views/Milestone2_17402620249100/Sheet9?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+
 
 
 
