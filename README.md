@@ -18,11 +18,11 @@ PPG provides a straightforward metric to evaluate a player's scoring ability and
   
 **Time on ice (TOI)**
 
-2. Win percentage after travel days 
+**Win percentage after travel days**
 
-3. Goals per game  
+**Goals per game**
 
-4. Fatigue indicators (turnovers, etc.) 
+**Fatigue indicators (turnovers, etc.)**
 
  
 
