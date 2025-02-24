@@ -29,22 +29,18 @@ This project takes a dive into the importance of travel in hockey and how it can
 * Analysis
   
 ![Goals Against](GoalsAgainst.png)
-
 The image is showcasing the total number of Goals Against for the Los Angeles Kings during the 2020-2021 season for both home and away games, this is important to track as it showcases it is more common to be socred on during road games vs. home games. This is due to fatigue and tiredness from traveling. 
 
 
 ![Giveaways Against](GiveawaysAgainst.png)
-
 This image is showcasing the total number of giveaways against for the LA Kings during the 2020-2021 season, as you can tell more giveaways result during road games. 
 
 
 ![Goals For](GoalsFor.png)
-
 Showcases the total Goals for, for the LA Kings during the 2020-2021 season. Showcasing goals for are lower on road games, and more goals were scored at home by the Kings in the 2021 season. 
 
 
 ![Penalties Against](PenaltiesAgainst.png)
-
 Shows penalties taken at home games vs. away games, more penatlies are taken throughout the season by the Los Angeles Kings on the road compared to home games, as players are lazier and take more penalties on opposing teams players. 
 
 
