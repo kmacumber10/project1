@@ -29,7 +29,7 @@ This project takes a dive into the importance of travel in hockey and how it can
 * Analysis
   
 ![Goals Against](GoalsAgainst.png)
-![Giveaways Against] (GiveawaysAgainst.png)
+![Giveaways Against](GiveawaysAgainst.png)
 
 
 
