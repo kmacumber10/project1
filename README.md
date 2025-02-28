@@ -26,7 +26,9 @@ This project takes a dive into the importance of travel in hockey and how it can
 **Takeaways Against**
 - Takeaways are caused from the other team taking the puck off a players stick, this is an important performance indicator to track as it can show which players are not skating as fast as normal and are being caught and stripped of the puck by the other team.
 
-* Analysis
+
+
+**Analysis**
   
 ![Goals Against](GoalsAgainst.png)
 The image is showcasing the total number of Goals Against for the Los Angeles Kings during the 2020-2021 season for both home and away games, this is important to track as it showcases it is more common to be socred on during road games vs. home games. This is due to fatigue and tiredness from traveling. 
