@@ -30,7 +30,7 @@ This project takes a dive into the importance of travel in hockey and how it can
 
 **Analysis**
   
-![Goals Against](src)(GoalsAgainst.png)
+![Goals Against](GoalsAgainst.png)
 The image is showcasing the total number of Goals Against for the Los Angeles Kings during the 2020-2021 season for both home and away games, this is important to track as it showcases it is more common to be socred on during road games vs. home games. This is due to fatigue and tiredness from traveling. 
 
 
