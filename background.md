@@ -8,7 +8,8 @@ The impact of travel is more frequent for teams located in the western division.
 
 Overall, the demanding travel schedule in the NHL is a crucial factor that influences team performance, player endurance, and overal competitiveness. Strategies such as optimizing recovery protocols, adjusting practice schedulesm and utilizing sport science innovations are continually being exlored to help mitigate the effects of travel on NHL athletes. 
 
-
+## Research Objectives
+The objective of this research is to investigate the relationship between travel schedules and hockey player performance. Using exploratory and statistical learning techniques, we aim to identify whether travel distance, rest time, or game density significantly impact performance outcomes like goals, assists, or time on ice.
 
 ## Datasets 
 
