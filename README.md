@@ -2,13 +2,18 @@
 
 *By Keegan Macumber* 
 ## Table of Contents
+## Table of Contents
 1. Introduction
 2. Research Objective
+3. Exploratory Data Analysis
+   - Finding 1: [Your title]
+   - Finding 2: [Your title]
 4. Statistical Analysis
    - Model Explanation
    - Results
-5. Background
-6. Datasets
+5. Discussion
+6. References
+   
 ## Executive Summary  
 
 This project takes a dive into the importance of travel in hockey and how it can impact performance. This impact can negatively affect performance by causing fatigue due to disrupted sleep patterns from time changes, leading to slower reaction times, lower energy levels, and even an increased risk of injury (Kneeland, 2014). Travelling long distances across numerous time zones is very common in professional hockey leagues. Fatigue has the potential to affect Team Goals for, Team Goals Against, Penalties taken, Giveaways, and takeaways against.
