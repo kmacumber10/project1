@@ -1,18 +1,14 @@
 # Impact of Travel on Performance in Hockey  
 
 *By Keegan Macumber* 
+
 ## Table of Contents
-## Table of Contents
-1. Introduction
-2. Research Objective
-3. Exploratory Data Analysis
-   - Finding 1: [Your title]
-   - Finding 2: [Your title]
-4. Statistical Analysis
-   - Model Explanation
-   - Results
-5. Discussion
-6. References
+1. Executive Summary
+2. Background
+3. Research Objective
+4. Key Perfromance Indicators
+5. Analysis
+6. Datasets
    
 ## Executive Summary  
 
